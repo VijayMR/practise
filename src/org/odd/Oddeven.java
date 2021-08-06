@@ -15,6 +15,7 @@ public class Oddeven {
 		else {
 			System.out.println("This is odd number");
 		}
+		System.out.println("success");
 	}
 
 }
