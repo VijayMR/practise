@@ -15,7 +15,11 @@ public class Oddeven {
 		else {
 			System.out.println("This is odd number");
 		}
+
 		System.out.println("success");
+		System.out.println("success1");
+		System.out.println("success2");
+
 	}
 
 }
